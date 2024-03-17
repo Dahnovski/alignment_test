@@ -7,6 +7,7 @@
 
 Напишем очень простую программу для демонстрации работы выравнивания.
 
+============================================================================================================================================================================================
 
 In the context of the C language, alignment refers to the process of organizing data in memory 
 so that they are located at addresses that are multiples of a certain size.
