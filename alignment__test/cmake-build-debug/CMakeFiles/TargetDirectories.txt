@@ -1,0 +1,3 @@
+/Users/nazardahnovski/c__train/alignment__test/cmake-build-debug/CMakeFiles/alignment__test.dir
+/Users/nazardahnovski/c__train/alignment__test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazardahnovski/c__train/alignment__test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
